@@ -1,6 +1,8 @@
 # API Star Shell
 API Star Shell inspired from Django
 
+![Example Usage](docs/usage.png "Example Usage")
+
 
 ## Installation
 
