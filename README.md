@@ -1,5 +1,5 @@
 # API Star Shell
-API Star Shell inspired from Django
+API Star Shell inspired by Django
 
 [![PyPI version](https://badge.fury.io/py/apistar-shell.svg)](https://badge.fury.io/py/apistar-shell)
 
