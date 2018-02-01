@@ -13,7 +13,7 @@ $ pip install apistar-shell
 ## Setup & Configuration
 
 - [Django Setup](docs/DJANGO_SETUP.md)
-- [Sqlalchemy Setup](docs/SQLALCHEMY_SETUP.md)
+- [SQLAlchemy Setup](docs/SQLALCHEMY_SETUP.md)
 - [Common Setup](docs/COMMON_SETUP.md)
 - [Configuration](docs/CONFIGURATION.md)
 
