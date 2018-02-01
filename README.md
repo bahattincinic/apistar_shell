@@ -5,7 +5,7 @@ API Star Shell inspired from Django
 ## Installation
 
 ```
-$ pip install apistar_shell
+$ pip install apistar-shell
 ```
 
 ## Setup & Configuration
