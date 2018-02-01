@@ -17,7 +17,6 @@ setup(
     classifiers=[
         'Development Status :: 1 - Beta',
         'Environment :: Web Environment',
-        'Framework :: API Star',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
