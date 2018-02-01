@@ -3,7 +3,7 @@ API Star Shell inspired by Django
 
 [![PyPI version](https://badge.fury.io/py/apistar-shell.svg)](https://badge.fury.io/py/apistar-shell)
 
-![Example Usage](docs/usage.png "Example Usage")
+<img src="docs/usage.png" width="700px" />
 
 
 ## Installation
