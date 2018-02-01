@@ -1,7 +1,7 @@
 from apistar import Command
 from apistar.backends.sqlalchemy_backend import Session as SqlalchemySession
 from apistar.backends.django_orm import Session as DjangoSession
-from .component import ShellBackend
+from .components import ShellBackend
 
 
 def shell_sqlalchemy(session: SqlalchemySession, backend: ShellBackend):
