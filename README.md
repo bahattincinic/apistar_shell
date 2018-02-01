@@ -1,6 +1,8 @@
 # API Star Shell
 API Star Shell inspired from Django
 
+[![PyPI version](https://badge.fury.io/py/apistar-shell.svg)](https://badge.fury.io/py/apistar-shell)
+
 
 ## Installation
 
