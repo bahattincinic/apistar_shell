@@ -9,7 +9,7 @@ setup(
     version='1.0',
     packages=['apistar_shell'],
     url='https://github.com/bahattincinic/apistar_shell',
-    license='BSD',
+    license='MIT',
     description='API Star Shell inspired from Django',
     author='Bahattin Cinic',
     author_email='bahattincinic@gmail.com',
