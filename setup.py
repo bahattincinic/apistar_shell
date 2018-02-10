@@ -6,7 +6,7 @@ from setuptools import setup
 
 setup(
     name='apistar_shell',
-    version='1.0',
+    version='1.1',
     packages=['apistar_shell'],
     url='https://github.com/bahattincinic/apistar_shell',
     license='MIT',
